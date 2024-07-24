@@ -3,6 +3,8 @@ This batch script is a super easy way to automate going from an unaligned set of
 
 ## Setup
 
+Clone/Download repo: https://github.com/azadbal/RealityCapture-to-PostShot.git
+
 The script requires that you have the project set up as the following:
 - Project root folder
   - "images"
