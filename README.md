@@ -4,8 +4,8 @@ This batch script is a super easy way to automate going from an unaligned set of
 ## Setup
 
 The script requires that you have the project set up as the following:
-├── Project root folder
-│   ├── "images"
+- Project root folder
+  - "images"
 
 Open the `RC_3DGS_train.BAT` and change the directories, specifically the `RealityCaptureExe`, `PostShotEXE`, and `SettingsFolder` to local ones.
 
