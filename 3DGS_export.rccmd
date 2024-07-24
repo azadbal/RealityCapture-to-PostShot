@@ -1,0 +1,2 @@
+-exportRegistration "C:\Users\Azad Balabanian\Desktop\temp\_RC\registeration.csv" "X:\FILES\RC\RC_CLI\Settings\3DGS_reg.xml" ^
+-exportSparsePointCloud "C:\Users\Azad Balabanian\Desktop\temp\_RC\pointcloud.ply" "X:\FILES\RC\RC_CLI\Settings\3DGS_ply.xml"
