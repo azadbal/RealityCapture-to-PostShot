@@ -17,7 +17,7 @@ Difference between the two BAT files
 
 I recommend using the non "train" bat file if you'd like to see the PostShot training happening live. Calling PostShot training via CLI does it quietly which is better if you're processing multiple datasets. 
 
-What's the RCCMD file? That's a way to drag and drop a set of commands onto RealityCapture if you have the project open. Here, the script will export the necessasry files for 3DGS training into a specific folder. I recommend making a folder in your Documents and linking it in the RCCMD file. The Settings are included in this repo, so make sure you link to them as well. 
+What's the RCCMD file? It's an optional/secondary way to get RC to export the necessary files for 3DGS. It works by drag and drop the RCCMD file (it's set of RC CLI commands) onto RealityCapture if you have the project open and the images aligned. The script will export the files into a specific folder which I recommend making a folder for in your Documents and linking it in the RCCMD file. The Settings are included in this repo, so make sure you link to them as well. 
 ## Usage
 
 Place the BAT file into the root of a project. Make sure the images are in a subfolder called "images". 
