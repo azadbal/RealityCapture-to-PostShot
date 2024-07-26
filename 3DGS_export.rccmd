@@ -1,2 +1,2 @@
--exportRegistration "[some folder]\registeration.csv" "[root]\Settings\3DGS_reg.xml" ^
--exportSparsePointCloud "[some folder]\pointcloud.ply" "[root]\Settings\3DGS_ply.xml"
+-exportRegistration "[folder]\registeration.csv" "[folder]\Settings\3DGS_reg.xml" ^
+-exportSparsePointCloud "[folder]\pointcloud.ply" "[folder]\Settings\3DGS_ply.xml"
