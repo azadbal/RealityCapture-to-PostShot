@@ -43,8 +43,10 @@ Download the Settings folder and the 3dgs_export.rccmd from the repo.
 
 Open the RCCMD file in Notepad, adjust the directories so that it's:
 
-`-exportRegistration "[folder]\registeration.csv" "[folder]\Settings\3DGS_reg.xml" ^`
-`-exportSparsePointCloud "[folder]\pointcloud.ply" "[folder]\Settings\3DGS_ply.xml"`
+```
+-exportRegistration "[folder]\registeration.csv" "[folder]\Settings\3DGS_reg.xml" ^
+-exportSparsePointCloud "[folder]\pointcloud.ply" "[folder]\Settings\3DGS_ply.xml"
+```
 
 Make sure to put the Settings folder (and its contents) in the same directory too. 
 
