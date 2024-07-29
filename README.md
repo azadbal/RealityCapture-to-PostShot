@@ -2,7 +2,7 @@ Two ways of exporting RealityCapture alignment for 3DGS Training in PostShot.
 
 For more info, read my blog post: [https://azadux.blog/2024/07/21/realitycapturetopostshot/](https://azadux.blog/2024/07/21/realitycapturetopostshot/)
 
-# RealityCapture to PostShot Bat script (starting from scratch)
+# 1. RealityCapture to PostShot Bat script (starting from scratch)
 This batch script is a super easy way to automate going from an unaligned set of images -> trained 3DGS with a single click by using RealityCapture and PostShot.
 
 ## Setup
@@ -31,7 +31,7 @@ To run it, either double click on the BAT file, accept the permissions that wind
 
 
 
-# RCCMMD (pre-existing RC projects)
+# 2. RCCMMD (pre-existing RC projects)
 
 If you already have a RealityCapture project with your images aligned, I recommend using this RealityCapture command file that you drag and drop onto RC, which executes a set of CLI commands. 
 
